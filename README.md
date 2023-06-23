@@ -27,7 +27,4 @@ This will take a few minutes.  Please ensure you are connected to the internet. 
 To initialise a Jupyter notebook use the command
 
     jupyter notebook
-    
-To initialise a Jupyter lab session use the command
 
-    jupyter lab
