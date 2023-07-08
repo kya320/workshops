@@ -7,3 +7,4 @@ dependencies:
   - matplotlib=3.7
   - numpy=1.25
   - python=3.9
+  - scipy=1.9
